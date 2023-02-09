@@ -1,0 +1,30 @@
+/* body {
+  background-color: #808080;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+} */
+/* .btnContainer {
+  display: inline-block;
+} */
+body {
+  background-color: #343a40;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stopwatch {
+  color: #ffc107;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+button {
+  margin: 10px;
+}
